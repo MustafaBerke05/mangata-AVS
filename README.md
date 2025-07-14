@@ -1,7 +1,6 @@
 <h1 align="center"> Mangata X - AVS </h1>
 
 
-## Notlar:
 
 > Selamlar, bir süredir mangata çalıştırıyorum lakin 30 kişi ile sınırlıydı ve artık sınır kalktı.
 
